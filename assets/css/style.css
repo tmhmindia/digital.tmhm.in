@@ -1310,7 +1310,7 @@ section {
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
-  opacity: 0.3;
+  opacity: 0.2;
 }
 
 .feature-block:hover{
@@ -1389,6 +1389,7 @@ section {
 
 
 
+/*
 @keyframes jello {
   11.1% {
     transform: none
@@ -1436,3 +1437,6 @@ section {
 .center {
   display: inline-block
 }
+*/
+
+
